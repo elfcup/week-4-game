@@ -1,0 +1,31 @@
+div {
+        box-sizing: border-box;
+        border: 1px solid grey;
+        padding: 10px;
+        width: 80%;
+    }
+
+.game-header {
+	font-size: 50px;
+	color: blue;
+	background-color: lightblue;
+}
+
+.main-body, .total-score {
+	font-size: 20px;
+	color: green;
+	background-color: lightgreen;
+}
+
+.four-images, .numToGet {
+	background-color: lightpink;
+	color: purple;
+}
+
+.wins-losses {
+	color: purple;
+	background-color: violet;
+}
+
+
+
